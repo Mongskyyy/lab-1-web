@@ -1,14 +1,14 @@
 # Lab1Web
-# Nama: Ramadhan Ardi Iman Prakoso
-# NIM:312210722
-# Kelas:TI.22.A3
+### Nama: Ramadhan Ardi Iman Prakoso
+### NIM:312210722
+### Kelas:TI.22.A3
 - # input
 
-  <img src="img/1.png"
+  <img src="img/1.png">
 
 - # output 
 
-  <img src="img/2.png"
+  <img src="img/2.png">
 
 # Menambahkan Hyperlink
 - # input
@@ -17,12 +17,12 @@
 
 - # output
 
- <img src="img/9.png"
+ <img src="img/9.png">
 
 # Judul dan Paragraf
 - # input
 
-<img src="img/4.png"
+<img src="img/4.png">
 
 - # output
 
@@ -35,7 +35,7 @@
 
 - # output
 
-<img src="img/6.png"
+<img src="img/6.png">
   
   
   
